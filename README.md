@@ -1,2 +1,2 @@
 # dotfiles-
-wallpapers, polybar(now for know) 
+wallpapers, polybar(not for know) 
