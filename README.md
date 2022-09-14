@@ -1,2 +1,2 @@
 # dotfiles
-wallpapers, polybar(not for know) 
+wallpapers, polybar(not for know) ,Arch Linux config
